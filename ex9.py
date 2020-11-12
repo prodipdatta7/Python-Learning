@@ -14,6 +14,6 @@ We can go on like this as deep as we want.
 """
 print(text)
 
-#text = "this is just for test that whether it work for only a single quote too.
+#text = "this is just for testing that whether it work for only a single quote too.
 #most probably not and you can try it out by removing the # form the beginning"
 #print(text)
