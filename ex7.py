@@ -20,6 +20,6 @@ end10 = "i"
 end11 = "n"
 end12 = "g"
 
-
-print(end1 + end2 + end3 + end4 + end5,)
-print(end6 + end7 + end8 + end9 + end10)
+print(end1 + end2 + end3 + end4 + end5 + end6 + end7 + end8 + end9 + end10 + end11 + end12) 
+#The plus sign(+) here is worked as the concatanation of the strings
+#output = I'm Learning
